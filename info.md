@@ -1,1 +1,1 @@
-Привет, дорогой gitGitHub
+Hello, GitHub
